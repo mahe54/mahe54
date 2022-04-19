@@ -1,4 +1,5 @@
 ### Welocome to Mats Hellström's profile 👋
+![TypeOn](https://user-images.githubusercontent.com/18022426/163988754-1b9da7f3-4333-42d4-ae5e-022189db7195.svg)
 <div align="center" >
 <video width="800" height="150" controls>
   <source src="https://user-images.githubusercontent.com/18022426/164008299-191c07be-8c84-4c3f-aeb7-397e0273be3f.mp4" type="video/mp4">
@@ -22,4 +23,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![TypeOn](https://user-images.githubusercontent.com/18022426/163988754-1b9da7f3-4333-42d4-ae5e-022189db7195.svg)
+
