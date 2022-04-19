@@ -1,33 +1,7 @@
-### Welcome to Mats Hellström's profile 👋
-![5eeea355389655 59822ff824b72](https://user-images.githubusercontent.com/18022426/164016751-641a5688-2acd-4382-8e60-38299c739788.gif)
-
-##Video
-
-
-
-https://user-images.githubusercontent.com/18022426/164015699-89c1b101-4eda-42c3-83f3-6ce1509cd6a0.mov
-
-
-
-<!--
+![Header](https://user-images.githubusercontent.com/18022426/164017188-17640d55-77a1-423d-b386-c442118197ac.gif)
 
 ![TypeOn](https://user-images.githubusercontent.com/18022426/163988754-1b9da7f3-4333-42d4-ae5e-022189db7195.svg)
-
-
-https://user-images.githubusercontent.com/18022426/164010390-e89381c0-3b73-40df-aa6d-c90249f57e74.mov
-
-
-https://user-images.githubusercontent.com/18022426/164011322-1462bcba-6698-4a36-bf7b-977039ff9076.mp4
-
-
-
-
-
-
-
-
-
-
+<!--
 **mahe54/mahe54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
