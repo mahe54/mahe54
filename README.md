@@ -1,4 +1,4 @@
-![Header](https://user-images.githubusercontent.com/18022426/164017188-17640d55-77a1-423d-b386-c442118197ac.gif)
+![HeaderCut](https://user-images.githubusercontent.com/18022426/164022445-82d9da4a-a128-43e5-9d1b-6d575dadaf7e.gif)
 ![Typing](https://user-images.githubusercontent.com/18022426/164018308-5cce3c0b-f4d3-4a03-baa0-b3c29f9d3982.svg)
 <!--
 **mahe54/mahe54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
