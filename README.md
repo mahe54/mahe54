@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welocome to Mats Hellström's profile 👋
 
 <!--
 **mahe54/mahe54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![typeOnInfo](https://user-images.githubusercontent.com/18022426/163975437-8c6e11b6-ae98-46c2-bd3b-521989596d4b.svg)
+![TypeOn](https://user-images.githubusercontent.com/18022426/163988448-86331a5b-9b5a-4c45-8942-ebc458025eae.svg)
