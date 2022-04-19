@@ -1,8 +1,6 @@
 ### Welocome to Mats Hellström's profile 👋
 <div align="center" >
-
-
-<video width="320" height="240" controls>
+<video width="800" height="150" controls>
   <source src="https://user-images.githubusercontent.com/18022426/164008299-191c07be-8c84-4c3f-aeb7-397e0273be3f.mp4" type="video/mp4">
 </video>
 </div>
