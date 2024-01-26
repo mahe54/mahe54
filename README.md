@@ -1,3 +1,1 @@
-
-
-![Typing](https://user-images.githubusercontent.com/18022426/164018308-5cce3c0b-f4d3-4a03-baa0-b3c29f9d3982.svg)
+![github profile](https://github.com/mahe54/mahe54/assets/18022426/91d640e6-8b66-4748-8f10-cf8ceaa6072b)
